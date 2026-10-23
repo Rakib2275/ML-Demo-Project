@@ -9,6 +9,7 @@ imblearn
 xgboost
 catboost
 pymongo==4.8.0
+ipykernel
 from_root
 evidently==0.2.8
 dill

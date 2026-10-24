@@ -9,6 +9,7 @@ imblearn
 xgboost
 catboost
 pymongo==4.8.0
+python-dotenv
 ipykernel
 from_root
 evidently==0.2.8
